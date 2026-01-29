@@ -9,8 +9,8 @@ from aiogram.types import Message
 from aiogram.exceptions import TelegramBadRequest
 
 # Replace with your bot token and OpenAI API key
-BOT_TOKEN = "7916222297:AAH8GaCr-yE5FY7T6bsCIwp2HOqifTyOHf0"
-OPENAI_API_KEY = "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"
+BOT_TOKEN = ""
+OPENAI_API_KEY = ""
 CHANNEL_USERNAME = "venusgpt"  # Without @
 
 openai.api_key = OPENAI_API_KEY  # Set OpenAI API key
